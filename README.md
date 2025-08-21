@@ -1,5 +1,9 @@
 # Neovim-Config
 
+This is my configuration for Neovim
+
+## HotKey
+
 - Open Tree Project - Space + e
 - Open Tree Git - Space + o
 - Start Debag - F5
